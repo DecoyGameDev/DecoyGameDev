@@ -1,6 +1,1 @@
-- 👋 Hi, I’m @DecoyGameDev
-- 👀 I’m interested in web tech!
-- 🌱 I’m currently learning Unity!
-- ⚰️ I'm working on a javascript framework!...
-- ⏰ I am also waiting to get onto GitHub Copilot and Open AI Codex!
-- 📫 How to reach me ht309953@gmail.com
+please
